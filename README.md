@@ -29,6 +29,9 @@
 </a><a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" width="40" height="40"/>
 </a><a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40"/>
+  <a href="https://www.php.net/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="PHP" width="40" height="40"/>
+</a>
 </a>
 
  </p>
