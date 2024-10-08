@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhanuchavan" alt="bhanuchavan" /></a> </p>
 
-- 🌱 I’m currently learning **React, php**
+- 🌱 I’m currently learning **React, Springboot, Hibernate**
 
 - 💬 Ask me about **Anything, Everything**
 
